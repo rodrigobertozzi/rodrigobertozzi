@@ -13,6 +13,4 @@ meu nome é Rodrigo Bertozzi, tenho 22 anos, sou estudante de Ciência da Comput
 <div>
   <a href="https://instagram.com/rodrigo_bertozzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-bertozzi-de-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  ![Snake animation](https://github.com/rodrigobertozzi/rodrigobertozzi)
- </div>
+
