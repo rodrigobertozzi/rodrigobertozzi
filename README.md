@@ -1,9 +1,14 @@
 # Rodrigo Bertozzi
 
-### Bem-Vindo
+### Olá
 <!--
 **rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Olá, meu nome é Rodrigo Bertozzi, tenho 22 anos, sou estudante de Ciência da Computação na PUC Minas e estudante de Ciência de Dados na Data Science Academy Brasil. Minha grande área de interesse em computação é data science, venho me aprimorando para seguir carreira como cientista de dados. 
+Meu nome é Rodrigo Bertozzi, tenho 22 anos, sou estudante de Ciência da Computação na PUC Minas e estudante de Ciência de Dados na Data Science Academy Brasil. Minha grande área de interesse em computação é data science, venho me aprimorando para seguir carreira como cientista de dados. 
 
 
+  <a href="https://instagram.com/rodrigo_bertozzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-bertozzi-de-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/rodrigobertozzi/rodrigobertozzi/blob/output/github-contribution-grid-snake.svg)
+ </div>
