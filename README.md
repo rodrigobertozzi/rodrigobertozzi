@@ -3,9 +3,9 @@
 
 <!--
 **rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your --> 
-🎓 Ciência da computação
+- 🎓 Ciência da computação
 
-💻 C# developer
+- 💻 C# developer
 ### Skills
 <div>
  <img  alt="R-Csharp" height="30em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"?>
