@@ -7,7 +7,7 @@
 meu nome é Rodrigo Bertozzi, tenho 22 anos, sou estudante de Ciência da Computação na PUC Minas e estudante de Ciência de Dados na Data Science Academy Brasil. Atualmente, estou focando mais em C# para iniciar a carreira em engenharia de software. 
 ### Skills
 <div>
- <img  alt="R-Csharp" height="30em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+ <img  alt="R-Csharp" height="30em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"?>
  <img height="30em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
  <img height="30em" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
  <img height="30em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
