@@ -1,6 +1,6 @@
 # Rodrigo Bertozzi
 
-### Olá,
+
 <!--
 **rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your --> 
 🎓 Ciência da computação
