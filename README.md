@@ -2,9 +2,10 @@
 
 ### Olá,
 <!--
-**rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-meu nome é Rodrigo Bertozzi, tenho 22 anos, sou estudante de Ciência da Computação na PUC Minas e estudante de Ciência de Dados na Data Science Academy Brasil. Atualmente, estou focando mais em C# para iniciar a carreira em engenharia de software. 
+**rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your --> 
+🎓 Ciência da computação
+
+💻 C# developer
 ### Skills
 <div>
  <img  alt="R-Csharp" height="30em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"?>
