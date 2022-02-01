@@ -1,6 +1,6 @@
 # Rodrigo Bertozzi
 
-
+Olá, meu nome é Rodrigo, sou formado em Computação pela PUC Minas - Campus Poços De Caldas, sou desenvolvedor de software, tenho 23 anos e moro em Poços de Caldas, MG, Brasil.
 <!--
 **rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your --> 
 - 🎓 Ciência da computação
@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/rodrigo-bertozzi-de-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href= "https://www.instagram.com/rodrigo_bertozzi/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </div>
+
 ### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobertozzi)](https://github.com/rodrigobertozzi/github-readme-stats)
