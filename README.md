@@ -5,7 +5,7 @@ Olá, meu nome é Rodrigo, sou formado em Computação pela PUC Minas - Campus P
 **rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your --> 
 - 🎓 Ciência da computação
 
-- 💻 C# developer
+- 💻 C#/.NET developer
 ### Skills
 <div>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
