@@ -21,10 +21,3 @@ Olá, meu nome é Rodrigo, sou formado em Computação pela PUC Minas - Campus P
  <a href= "https://www.instagram.com/rodrigo_bertozzi/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </div>
 
-### GitHub Stats
-<div>
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobertozzi)](https://github.com/rodrigobertozzi/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobertozzi&layout=compact)](https://github.com/rodrigobertozzi)
-
-</div>
