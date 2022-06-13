@@ -1,6 +1,6 @@
 # Rodrigo Bertozzi
 
-Olá, meu nome é Rodrigo, sou formado em Computação pela PUC Minas - Campus Poços De Caldas, sou desenvolvedor de software, tenho 23 anos e moro em Poços de Caldas, MG, Brasil.
+Olá, meu nome é Rodrigo, sou formado em Computação pela PUC Minas - Campus Poços De Caldas, tenho 23 anos e moro em Poços de Caldas, MG, Brasil.
 <!--
 **rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your --> 
 - 🎓 Ciência da computação
