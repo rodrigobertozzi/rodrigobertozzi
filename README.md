@@ -1,19 +1,12 @@
 # Rodrigo Bertozzi
-
-Olá, meu nome é Rodrigo, sou formado em Computação pela PUC Minas - Campus Poços De Caldas, tenho 23 anos e moro em Poços de Caldas, MG, Brasil.
 <!--
 **rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your --> 
-- 🎓 Ciência da computação
-
-- 💻 C#/.NET developer
-### Skills
-<div>
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
- <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-
- 
-</div>
+### Detailed information
+- Name: Rodrigo Bertozzi De Castro
+- Age: 23
+- Living in: Poços De Caldas - MG, Brazil
+- Stack: C# - .NET - SQL Server
+- University: PUC Minas - Campus Poços De Caldas.
 
 ### Contato
 <div>
