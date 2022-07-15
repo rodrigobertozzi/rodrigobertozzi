@@ -1,7 +1,7 @@
 # Hey!
 <!--
 **rodrigobertozzi/rodrigobertozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your --> 
-### Detailed information
+### Information about me:
 - Name: Rodrigo Bertozzi De Castro
 - Age: 23
 - Living in: Poços De Caldas - MG, Brazil
